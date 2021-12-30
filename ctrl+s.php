@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Ctrl+S
-Plugin URI:	 
+Plugin URI:	 https://github.com/417shena/wp-plugin_ctrl-s
 Version:	   v1.0
 Author:      417
 Author URI:  https://417.run/
