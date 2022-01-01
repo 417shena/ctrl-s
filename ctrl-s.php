@@ -17,6 +17,6 @@ Description: [ctrl + s] ⇒ save_post | [ctrl + shift + s] => publish
  */
 add_action('admin_enqueue_scripts', function ($hook_suffix) {
   if ('post.php' == $hook_suffix || 'post-new.php' == $hook_suffix) {
-    wp_enqueue_script('ctrl+s', plugins_url('ctrl+s.js', __FILE__), array('jquery'));
+    wp_enqueue_script('ctrl-s', plugins_url('ctrl-s.js', __FILE__), array('jquery'));
   }
 });
