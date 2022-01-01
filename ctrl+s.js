@@ -24,6 +24,7 @@ var quickSave = {
       if (b != null) {
         var n = e.target.nodeName.toLowerCase();
         if (n == "textarea" || n == "input") {
+          // jQuery(window).off("beforeunload");
           b.click();
           return false;
         }

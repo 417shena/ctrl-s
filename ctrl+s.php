@@ -2,7 +2,7 @@
 /*
 Plugin Name: Ctrl+S
 Plugin URI:	 https://github.com/417shena/wp-plugin_ctrl-s
-Version:	   v1.0
+Version:	   1.0
 Author:      417
 Author URI:  https://417.run/
 Description: [ctrl + s] ⇒ save_post | [ctrl + shift + s] => publish
